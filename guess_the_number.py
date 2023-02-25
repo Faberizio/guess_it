@@ -24,4 +24,3 @@ while play == "1":
     else:
         print("Game Over. The number was", secret_number)
         play = input("Wanna play again? (1 for yes, any other key to quit): ")
-#
