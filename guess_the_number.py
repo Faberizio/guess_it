@@ -1,5 +1,4 @@
-# is a module that provides functions for generating random numbers.
-import random
+import random  # this module provides functions for generating random numbers.
 
 play = "1"
 
