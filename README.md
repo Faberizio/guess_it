@@ -1,7 +1,7 @@
 # guess_it
 
-guess_it
-This is a _simple_ Python program that generates a random number between **1 and 10** and allows the user to guess the number in **3 attempts**. The program provides hints to the user, telling them if their guess is too high or too low.
+guess*it
+This is a \_simple* Python program that generates a random number between **1 and 10** and allows the user to guess the number in **3 attempts**. The program provides hints to the user, telling them if their guess is too high or too low.
 
 ## Installation
 
