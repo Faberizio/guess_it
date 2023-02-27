@@ -45,7 +45,7 @@ def winner():
     if dice_roll == 6:
 
         # Randomly selects one number out of 10 (videos)
-        random_prize = random.randint(1, 10)
+        random_prize = random.randint(0, 9)
 
         print("\nYou won a prize. Enjoy!")
 
